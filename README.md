@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Splendor. I am a Data Analyst and Business Intelligence Analyst.
+My name is **Splendor**. I am a **Data Analyst** and **Business Intelligence Analyst**.
 
 - 🔭 I’m currently working on enhancing my data visualization techiniques and improving my storytelling abilities using data
 - 🌱 I’m currently learning advanced python for data science and I teach data analytics currently
